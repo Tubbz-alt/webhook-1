@@ -32,10 +32,11 @@ every **request made** will be **logged**, including the **following**:
 - HTTP / 429 : (ratelimit)
 - HTTP / NA  : (failure)
 ```
+#
 ### requirements:
 - prior knowledge using python3
 - discord webhook, see [#resources]
-#### optional:
+### optional:
 - vpn/proxy, see:
 ```
 https://discord.com/developers/docs/topics/rate-limits
@@ -43,9 +44,9 @@ https://discord.com/developers/docs/topics/rate-limits
 #
 ### setup:
 - python3
-- `requests`, `os`, `time`
-ex:
+- `requests`, `os`, `time`, install via pip:
 ```
+ex:
 pip install requests
 ```
 - complete, launch the program via python3
