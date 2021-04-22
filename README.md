@@ -48,7 +48,6 @@ https://discord.com/developers/docs/topics/rate-limits
 - python3
 - `requests`, `os`, `time`, install via pip:
 ```
-ex:
 pip install requests
 ```
 - complete, launch the program via python3
