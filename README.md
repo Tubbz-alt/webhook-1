@@ -24,7 +24,9 @@ sent[1]
 completed : sent[1] : rl'd[0] : failed[0]
 ```
 #
-comes with an interactive title, rather than using `ctypes`, i've used the command-line method using `system` from the `os` lib in python.
+comes with an interactive title,
+
+rather than using `ctypes`, i've used the command-line method using `system` from the `os` lib in python.
 
 every **request made** will be **logged**, including the **following**:
 ```
